@@ -1,16 +1,11 @@
 # picsum
 
-A new Flutter project.
+A mobile application (Flutter) that displays a list of images as a gallery (thumbnails). A user can tap the thumbnail to see a full screen picture with the possibility to zoom in/zoom out.
 
-## Getting Started
+## Extra Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Zoom in/zoom out buttons on homepage to increase/decrease grid size
+Cached images
+Favourite images
+Image download option to local gallery in full view mode
+Share image option after downloading
