@@ -4,8 +4,13 @@ A mobile application (Flutter) that displays a list of images as a gallery (thum
 
 ## Extra Features
 
+
 Zoom in/zoom out buttons on homepage to increase/decrease grid size
+
 Cached images
+
 Favourite images
+
 Image download option to local gallery in full view mode
+
 Share image option after downloading
